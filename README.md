@@ -1,2 +1,2 @@
 # EventEmitter
-Create a auto update event log 
+Create an auto update event log 
